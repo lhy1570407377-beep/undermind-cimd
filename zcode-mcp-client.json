@@ -1,0 +1,9 @@
+{
+  "client_id": "https://lhy1570407377-beep.github.io/undermind-cimd/zcode-mcp-client.json",
+  "client_name": "ZCode MCP Client (local)",
+  "redirect_uris": ["http://localhost:8765/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "code_challenge_method": "S256"
+}
